@@ -5,7 +5,7 @@
     <img
       width="256"
       align="right"
-      src="https://raw.githubusercontent.com/LoneWolf38/LoneWolf38/devcard.svg"
+      src="https://raw.githubusercontent.com/LoneWolf38/LoneWolf38/main/devcard.svg"
     />
   </a>
 </div>
