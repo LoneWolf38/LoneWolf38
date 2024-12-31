@@ -1,6 +1,4 @@
-# Hi, there
-
-## I am Debabrata Choudhury
+## Hi, there
 - ```
   bio :=  About{
     Name: "Debabrata Choudhury"
