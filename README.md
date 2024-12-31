@@ -2,9 +2,7 @@
 - ```
   bio :=  About{
     Name: "Debabrata Choudhury"
-    Profession : "Platform Engineer/Golang Developer"
-    Current Interest : "TUI in golang (Mainly charm.sh)"
-    Current Project : "File Manager SortOf"
+    Profession : "Platform Engineer/Golang Developer",
     }
     
   if err :- bio.Show(); err != nil {
